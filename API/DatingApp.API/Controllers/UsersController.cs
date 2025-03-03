@@ -7,7 +7,7 @@ namespace DatingApp.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController(IAppUserService appUserService) : ControllerBase
+    public class UsersController(IAppUserService appUserService) : ControllerBase
     {
         [HttpGet]
         public async Task<IActionResult> GetUsers()
