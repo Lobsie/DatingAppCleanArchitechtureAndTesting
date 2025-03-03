@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.API", "DatingApp.API\DatingApp.API.csproj", "{82E7B509-2554-4E4F-84DC-241AE20E6382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.API.Core", "DatingApp.API.Core\DatingApp.API.Core.csproj", "{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.API.Infrastructure", "DatingApp.API.Infrastructure\DatingApp.API.Infrastructure.csproj", "{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F} = {2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Debug|x64.Build.0 = Debug|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Debug|x86.Build.0 = Debug|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Release|x64.ActiveCfg = Release|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Release|x64.Build.0 = Release|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Release|x86.ActiveCfg = Release|Any CPU
+		{82E7B509-2554-4E4F-84DC-241AE20E6382}.Release|x86.Build.0 = Release|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Debug|x64.Build.0 = Debug|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Debug|x86.Build.0 = Debug|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Release|x64.ActiveCfg = Release|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Release|x64.Build.0 = Release|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}.Release|x86.Build.0 = Release|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Debug|x64.Build.0 = Debug|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Debug|x86.Build.0 = Debug|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Release|x64.ActiveCfg = Release|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Release|x64.Build.0 = Release|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Release|x86.ActiveCfg = Release|Any CPU
+		{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD7EC39-935A-4E5B-A479-881BDA05B33B}
+	EndGlobalSection
+EndGlobal
