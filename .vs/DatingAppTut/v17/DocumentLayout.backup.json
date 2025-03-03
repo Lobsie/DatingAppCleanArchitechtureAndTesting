@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\mapping\\mapfromappusertoappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\mapping\\mapfromappusertoappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\mapping\\base\\basemappingfromentitytodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\mapping\\base\\basemappingfromentitytodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E7B509-2554-4E4F-84DC-241AE20E6382}|DatingApp.API\\DatingApp.API.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E7B509-2554-4E4F-84DC-241AE20E6382}|DatingApp.API\\DatingApp.API.csproj|solutionrelative:datingapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E7B509-2554-4E4F-84DC-241AE20E6382}|DatingApp.API\\DatingApp.API.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E7B509-2554-4E4F-84DC-241AE20E6382}|DatingApp.API\\DatingApp.API.csproj|solutionrelative:datingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\interfaces\\services\\base\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\interfaces\\services\\base\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\interfaces\\mapping\\base\\ibasemappingfromentitytodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\interfaces\\mapping\\base\\ibasemappingfromentitytodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\interfaces\\mapping\\imapfromappusertoappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\interfaces\\mapping\\imapfromappusertoappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\interfaces\\repositories\\iappuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\interfaces\\repositories\\iappuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\interfaces\\repositories\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\interfaces\\repositories\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\interfaces\\services\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\interfaces\\services\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A874AF5-40C8-4AF6-9E44-BDB0F3C3BC4F}|DatingApp.API.Core\\DatingApp.API.Core.csproj|solutionrelative:datingapp.api.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}|DatingApp.API.Infrastructure\\DatingApp.API.Infrastructure.csproj|c:\\users\\gijsd\\desktop\\datingapptut\\datingapp.api.infrastructure\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9196BB28-86A1-4C8B-99CE-0E6D7BC0BA1E}|DatingApp.API.Infrastructure\\DatingApp.API.Infrastructure.csproj|solutionrelative:datingapp.api.infrastructure\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseMappingFromEntityToDto.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Mapping\\Base\\IBaseMappingFromEntityToDto.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Interfaces\\Mapping\\Base\\IBaseMappingFromEntityToDto.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Mapping\\Base\\IBaseMappingFromEntityToDto.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Interfaces\\Mapping\\Base\\IBaseMappingFromEntityToDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:55:07.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "DatingApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API\\Program.cs",
+              "RelativeToolTip": "DatingApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:02:37.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Services\\AppUserService.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Services\\AppUserService.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Services\\AppUserService.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Services\\AppUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:28:33.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Services\\Base\\BaseService.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Services\\Base\\BaseService.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Services\\Base\\BaseService.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Services\\Base\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:18:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Services\\Base\\IBaseService.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Interfaces\\Services\\Base\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Services\\Base\\IBaseService.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Interfaces\\Services\\Base\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:24:46.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseMappingFromEntityToDto.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Mapping\\Base\\BaseMappingFromEntityToDto.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Mapping\\Base\\BaseMappingFromEntityToDto.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Mapping\\Base\\BaseMappingFromEntityToDto.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Mapping\\Base\\BaseMappingFromEntityToDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:29:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DatingApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DatingApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:05:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapFromAppUserToAppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Mapping\\MapFromAppUserToAppUserDto.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Mapping\\MapFromAppUserToAppUserDto.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Mapping\\MapFromAppUserToAppUserDto.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Mapping\\MapFromAppUserToAppUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:57:08.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMapFromAppUserToAppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Mapping\\IMapFromAppUserToAppUserDto.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Interfaces\\Mapping\\IMapFromAppUserToAppUserDto.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Mapping\\IMapFromAppUserToAppUserDto.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Interfaces\\Mapping\\IMapFromAppUserToAppUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:55:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAppUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Repositories\\IAppUserRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Interfaces\\Repositories\\IAppUserRepository.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Repositories\\IAppUserRepository.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Interfaces\\Repositories\\IAppUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:15:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Repositories\\Base\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Interfaces\\Repositories\\Base\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Repositories\\Base\\IBaseRepository.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Interfaces\\Repositories\\Base\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:10:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Services\\IAppUserService.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Interfaces\\Services\\IAppUserService.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Interfaces\\Services\\IAppUserService.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Interfaces\\Services\\IAppUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:50:45.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "DatingApp.API.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:19:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DatingApp.API.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\gijsd\\Desktop\\DatingAppTut\\DatingApp.API.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DatingApp.API.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:27:09.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
