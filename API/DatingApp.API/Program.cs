@@ -17,6 +17,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(opt =>
     opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
+builder.Services.AddCors();
+
 builder.Services.AddScoped<IAppUserRepository, UserRepository>();
 
 builder.Services.AddScoped<IMapFromAppUserToAppUserDto, MapFromAppUserToAppUserDto>();
@@ -27,6 +29,8 @@ builder.Services.AddScoped<IAppUserService, AppUserService>();
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
+
+app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200", "https://localhost:4200"));
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
